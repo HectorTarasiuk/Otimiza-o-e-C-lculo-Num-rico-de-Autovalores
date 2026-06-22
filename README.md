@@ -1,3 +1,4 @@
+(veja este arquivo em forma de código)
 Otimização e Cálculo Numérico de Autovalores
 
 Projeto da disciplina de Equações Diferenciais Ordinárias. Implementação do algoritmo padrão-ouro para autovalores
